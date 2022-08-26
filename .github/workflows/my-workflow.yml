@@ -12,7 +12,6 @@ jobs:
         uses: ./.github/actions/hello-world
         with:
           first-greeting: "Michael Jordan"
-        with:
           second-greeting: "Derrick Rose"
-        with:
           third-greeting: "Zach Lavine"
+            description: "This is a description"
