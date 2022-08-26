@@ -10,5 +10,9 @@ jobs:
 
       - name: "hello-action"
         uses: ./.github/actions/hello-world
-        # with:
-          # first-greeting: "Learning Lab User"
+        with:
+          first-greeting: "Michael Jordan"
+        with:
+          fsecond-greeting: "Derrick Rose"
+        with:
+          third-greeting: "Zach Lavine"
