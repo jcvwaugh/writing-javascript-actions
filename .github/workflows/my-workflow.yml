@@ -13,6 +13,6 @@ jobs:
         with:
           first-greeting: "Michael Jordan"
         with:
-          fsecond-greeting: "Derrick Rose"
+          second-greeting: "Derrick Rose"
         with:
           third-greeting: "Zach Lavine"
