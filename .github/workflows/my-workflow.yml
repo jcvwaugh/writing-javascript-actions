@@ -11,6 +11,4 @@ jobs:
       - name: "hello-action"
         uses: ./.github/actions/hello-world
         with:
-          first-greeting: "Michael Jordan"
-          second-greeting: "Derrick Rose"
           third-greeting: "Zach Lavine"
